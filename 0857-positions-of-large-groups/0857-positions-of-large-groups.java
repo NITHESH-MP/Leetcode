@@ -5,15 +5,14 @@ class Solution {
 
         for (int i = 1; i <= s.length(); i++) 
         {
-            
-            if (i == s.length() || s.charAt(i) != s.charAt(start)) 
+            if(i == s.length() || s.charAt(i) != s.charAt(start))
             {
-                if (i - start >= 3) 
+                if(i - start >= 3)
                 {
-                    List<Integer> group = new ArrayList<>();
-                    group.add(start);
-                    group.add(i - 1);
-                    result.add(group);
+                    List<Integer> list = new ArrayList<>();
+                    list.add(start);
+                    list.add(i-1);
+                    result.add(list);
                 }
                 start = i;
             }
