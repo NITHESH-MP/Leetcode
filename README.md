@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/0002-add-two-numbers) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NITHESH-MP/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -78,8 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
