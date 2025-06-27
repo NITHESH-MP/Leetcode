@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/0002-add-two-numbers) |
+| [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NITHESH-MP/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NITHESH-MP/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NITHESH-MP/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
+| [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
