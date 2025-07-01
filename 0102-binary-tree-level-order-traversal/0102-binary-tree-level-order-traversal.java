@@ -15,31 +15,27 @@
  */
 class Solution 
 {
-    List<List<Integer>> ans = new ArrayList<>();
-    
-    public List<List<Integer>> levelOrder(TreeNode root) 
-    {    
-        if(root == null)
-            return ans;
-        
-        level(root,0);
+    List<List<Integer>> result = new ArrayList<>();
 
-        return ans;
+    public List<List<Integer>> levelOrder(TreeNode root) 
+    {
+
+        levelTraverse(root, 0);
+
+        return result;    
     }
 
-    public void level(TreeNode root, int level)
+    public void levelTraverse(TreeNode root, int level)
     {
         if(root == null)
             return;
+
+        if(result.size() == level)
+            result.add(new ArrayList<>());
         
-        if(ans.size() == level)
-            ans.add(new ArrayList<>());
+        result.get(level).add(root.val);
 
-        ans.get(level).add(root.val);
-
-        level(root.left,level+1);
-        level(root.right,level+1);
-
-        
-    }
+        levelTraverse(root.left, level+1);
+        levelTraverse(root.right, level+1);
+    } 
 }
