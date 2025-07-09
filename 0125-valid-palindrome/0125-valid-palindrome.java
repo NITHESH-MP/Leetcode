@@ -10,7 +10,7 @@ class Solution {
         while(l<r)
         {
             
-            if(Character.toLowerCase(s.charAt(l)) != Character.toLowerCase(s.charAt(r)))
+            if(s.charAt(l) != s.charAt(r))
                 return false;
             l++;
             r--;            
