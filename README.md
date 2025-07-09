@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NITHESH-MP/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/NITHESH-MP/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/NITHESH-MP/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0857-positions-of-large-groups](https://github.com/NITHESH-MP/Leetcode/tree/master/0857-positions-of-large-groups) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/NITHESH-MP/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/NITHESH-MP/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/NITHESH-MP/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHESH-MP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
