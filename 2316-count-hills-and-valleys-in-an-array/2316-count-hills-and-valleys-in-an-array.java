@@ -29,11 +29,7 @@ class Solution {
             
             }
         } 
-        
-
-        System.out.println(hv);
 
         return hv.size();
-
     }
 }
