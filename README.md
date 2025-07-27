@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
