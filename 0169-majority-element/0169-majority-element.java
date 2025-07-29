@@ -1,14 +1,13 @@
 class Solution {
-    public int majorityElement(int[] nums) 
+    public int majorityElement(int[] nums)
     {
-        Map<Integer, Integer> freqmap = new HashMap<>();
+        Map<Integer, Integer> freq = new HashMap<>();
 
         for(int n : nums)
-            freqmap.put(n, freqmap.getOrDefault(n, 0)+1);
-
+            freq.put(n, freq.getOrDefault(n, 0) + 1);
+        
         int n = nums.length/2;
-
-        for(Map.Entry<Integer, Integer> entry : freqmap.entrySet() )
+        for(Map.Entry<Integer, Integer> entry : freq.entrySet())
         {
             if(entry.getValue() > n)
                 return entry.getKey();
