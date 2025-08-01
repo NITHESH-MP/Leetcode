@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0857-positions-of-large-groups](https://github.com/NITHESH-MP/Leetcode/tree/master/0857-positions-of-large-groups) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHESH-MP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHESH-MP/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
