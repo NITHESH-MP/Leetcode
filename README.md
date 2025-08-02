@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/NITHESH-MP/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/NITHESH-MP/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NITHESH-MP/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/NITHESH-MP/Leetcode/tree/master/3396-valid-word) |
 | [3684-substring-matching-pattern](https://github.com/NITHESH-MP/Leetcode/tree/master/3684-substring-matching-pattern) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/NITHESH-MP/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Binary Search
 |  |
 | ------- |
