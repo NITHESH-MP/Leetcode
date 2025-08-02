@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NITHESH-MP/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/NITHESH-MP/Leetcode/tree/master/3396-valid-word) |
+| [3684-substring-matching-pattern](https://github.com/NITHESH-MP/Leetcode/tree/master/3684-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [3684-substring-matching-pattern](https://github.com/NITHESH-MP/Leetcode/tree/master/3684-substring-matching-pattern) |
 <!---LeetCode Topics End-->
