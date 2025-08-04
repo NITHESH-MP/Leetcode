@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NITHESH-MP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/NITHESH-MP/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Binary Search
 |  |
