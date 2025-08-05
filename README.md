@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
+| [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
