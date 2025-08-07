@@ -1,28 +1,46 @@
 class Solution {
-    public int totalFruit(int[] fruits)
+    public int totalFruit(int[] fruits) 
     {
-        int start = 0;
-        int end = 0;
+        int count = 0;
         int max = 0;
-
-        HashMap<Integer, Integer> freq = new HashMap<>();
+        int start = 0, end = 0;
+        
+        HashSet<Integer> basket = new HashSet<>();
 
         while(end < fruits.length)
         {
-            freq.put(fruits[end], freq.getOrDefault(fruits[end], 0) + 1);
-
-            while(freq.size() > 2)
+            if(basket.contains(fruits[end]))
             {
-                freq.put(fruits[start], freq.getOrDefault(fruits[start], 0) - 1);
-                if(freq.get(fruits[start]) == 0)
-                    freq.remove(fruits[start]);
-                start++;
+                count++;
+                end++;
             }
-
-            max = Math.max(max, end - start + 1);
-            end++;
+            else
+            {
+                if(basket.size() < 2)
+                {
+                    count++;
+                    basket.add(fruits[end]);
+                    end++;
+                }
+                else
+                {
+                    max = Math.max(count, max);
+                    count = 0;
+                    start = end - 1;
+                    while(start >= 0 && fruits[start] == fruits[end-1])
+                    {
+                        count++;
+                        start--;
+                    }
+                    basket.remove(fruits[start]);
+                    start++;
+                }
+            }
+                
         }
 
-        return max;   
+        max = Math.max(count, max);
+
+        return max;
     }
 }
