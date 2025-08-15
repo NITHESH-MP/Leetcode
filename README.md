@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHESH-MP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/NITHESH-MP/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/NITHESH-MP/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0857-positions-of-large-groups](https://github.com/NITHESH-MP/Leetcode/tree/master/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
