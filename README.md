@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/NITHESH-MP/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/NITHESH-MP/Leetcode/tree/master/1448-maximum-69-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/NITHESH-MP/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/NITHESH-MP/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3790-fruits-into-baskets-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
