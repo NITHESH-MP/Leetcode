@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/NITHESH-MP/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHESH-MP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/NITHESH-MP/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NITHESH-MP/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/NITHESH-MP/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NITHESH-MP/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/NITHESH-MP/Leetcode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/NITHESH-MP/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
