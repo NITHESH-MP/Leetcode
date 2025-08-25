@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHESH-MP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/NITHESH-MP/Leetcode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NITHESH-MP/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Randomized
