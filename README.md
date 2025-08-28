@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/NITHESH-MP/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
+| [1253-sort-the-matrix-diagonally](https://github.com/NITHESH-MP/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1253-sort-the-matrix-diagonally](https://github.com/NITHESH-MP/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NITHESH-MP/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
