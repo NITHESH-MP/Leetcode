@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NITHESH-MP/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NITHESH-MP/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3226-minimum-number-game](https://github.com/NITHESH-MP/Leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NITHESH-MP/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NITHESH-MP/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NITHESH-MP/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3226-minimum-number-game](https://github.com/NITHESH-MP/Leetcode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/NITHESH-MP/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NITHESH-MP/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NITHESH-MP/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Randomized
