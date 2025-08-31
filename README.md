@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NITHESH-MP/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1253-sort-the-matrix-diagonally](https://github.com/NITHESH-MP/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NITHESH-MP/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NITHESH-MP/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
