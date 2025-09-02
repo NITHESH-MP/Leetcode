@@ -1,43 +1,42 @@
-class Solution
-{
-    public static char[] sorting(String s)
-    {
-        char[] a = s.toCharArray();
-        Arrays.sort(a);
-        return a;
-    }
-
+class Solution {
     public List<List<String>> groupAnagrams(String[] strs) 
     {
-        List<List<String>> answer = new ArrayList<>();
+        List<List<String>> result = new ArrayList<>();
 
-        if(strs.length == 0 || strs.length==1)
+        if(strs.length == 0 || strs.length == 1)
         {
-            List<String> anagram = new ArrayList<>();
-            anagram.add(strs[0]);
-            answer.add(anagram);
+            result.add(new ArrayList<>(Arrays.asList(strs[0])));
+            return result;
         }
-        else
-        {
-            Map<String,List<String>> map = new HashMap<>();
-            String key = new String();
-            
-            for(int i=0;i<strs.length;i++)
-            {
-                key = String.valueOf(sorting(strs[i])); 
 
-                if(!map.containsKey(key))
-                    map.put(key, new ArrayList<>());
-                
+        String[] temp = new String[strs.length];
+        int i = 0;
+
+        for(String s : strs)
+        {
+            char[] arr = s.toCharArray();
+            Arrays.sort(arr);
+
+            temp[i++] = new String(arr); 
+        }
+
+        HashMap<String, List<String>> map = new HashMap<>();
+
+        for(i = 0; i < strs.length; i++)
+        {
+            String key = temp[i];
+
+            if(map.containsKey(key))
+                map.get(key).add(strs[i]);
+            else
+            {
+                map.put(key, new ArrayList<>());
                 map.get(key).add(strs[i]);
             }
 
-            answer.addAll(map.values());
-            
         }
-        
-        return answer;
 
+        result.addAll(map.values());
+        return result;
     }
-
 }
