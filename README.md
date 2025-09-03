@@ -209,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/NITHESH-MP/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NITHESH-MP/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/NITHESH-MP/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/NITHESH-MP/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/NITHESH-MP/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Design
 |  |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NITHESH-MP/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NITHESH-MP/Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NITHESH-MP/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
