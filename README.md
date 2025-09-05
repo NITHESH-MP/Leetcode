@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/NITHESH-MP/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NITHESH-MP/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NITHESH-MP/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/NITHESH-MP/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NITHESH-MP/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NITHESH-MP/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/NITHESH-MP/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NITHESH-MP/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0229-majority-element-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NITHESH-MP/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NITHESH-MP/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/NITHESH-MP/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0680-valid-palindrome-ii) |
