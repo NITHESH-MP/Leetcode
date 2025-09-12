@@ -8,13 +8,9 @@ class Solution {
         {
             char c = s.charAt(i);
             if(vowels.indexOf(c) != -1)
-                vowelsCount++;
+                return true;
         }
-
-        if(vowelsCount >= 1)
-            return true;
-        
+      
         return false;
-
     }
 }
