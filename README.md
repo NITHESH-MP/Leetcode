@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/NITHESH-MP/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/NITHESH-MP/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/NITHESH-MP/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NITHESH-MP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1006-vowel-spellchecker](https://github.com/NITHESH-MP/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1026-string-without-aaa-or-bbb](https://github.com/NITHESH-MP/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/NITHESH-MP/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/NITHESH-MP/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/NITHESH-MP/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
