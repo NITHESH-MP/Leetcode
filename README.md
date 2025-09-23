@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/NITHESH-MP/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/NITHESH-MP/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/NITHESH-MP/Leetcode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/NITHESH-MP/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/NITHESH-MP/Leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
