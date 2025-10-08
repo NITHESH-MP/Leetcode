@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NITHESH-MP/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NITHESH-MP/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NITHESH-MP/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NITHESH-MP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NITHESH-MP/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/NITHESH-MP/Leetcode/tree/master/3226-minimum-number-game) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NITHESH-MP/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/NITHESH-MP/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/NITHESH-MP/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
