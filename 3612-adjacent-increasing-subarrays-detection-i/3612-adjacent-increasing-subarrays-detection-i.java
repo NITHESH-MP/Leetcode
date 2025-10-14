@@ -15,14 +15,14 @@ class Solution {
 
     public boolean isIncreasing(List<Integer> nums, int start, int end){
 
-        HashSet<Integer> set = new HashSet<>();
+        // HashSet<Integer> set = new HashSet<>();
 
         for(int i = start; i < start + end; i++)
         {
-            if(set.contains(nums.get(i)))
-                return false;
+            // if(set.contains(nums.get(i)))
+            //     return false;
 
-            set.add(nums.get(i));
+            // set.add(nums.get(i));
 
             if( i > start && nums.get(i) <= nums.get(i - 1))
                 return false;
