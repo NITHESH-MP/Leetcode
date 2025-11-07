@@ -1,12 +1,22 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
         
-        long n = (long) num;
+        if(num == 1)
+            return false;
         
-        if (n == 6L || n == 28L || n == 496L || n == 8128L || 
-            n == 33550336L || n == 8589869056L || n == 137438691328L)
-            return true;
-        
-        return false;
+        int sum = 1;
+        int n = (int) Math.sqrt(num);
+
+        for(int i = 2; i <= n; i++){
+            if(num % i == 0)
+            {
+                sum += i;
+                if(i != num / i)
+                    sum += num/i;
+            }
+        }
+
+        return sum == num ? true : false;
+
     }
 }
