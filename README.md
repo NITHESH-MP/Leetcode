@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NITHESH-MP/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NITHESH-MP/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NITHESH-MP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/NITHESH-MP/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/NITHESH-MP/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
