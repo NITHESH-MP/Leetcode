@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/NITHESH-MP/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NITHESH-MP/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/NITHESH-MP/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/NITHESH-MP/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2058-concatenation-of-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NITHESH-MP/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/NITHESH-MP/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/NITHESH-MP/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/NITHESH-MP/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/NITHESH-MP/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/NITHESH-MP/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
