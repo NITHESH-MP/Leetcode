@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NITHESH-MP/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NITHESH-MP/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/NITHESH-MP/Leetcode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NITHESH-MP/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NITHESH-MP/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NITHESH-MP/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0498-diagonal-traverse](https://github.com/NITHESH-MP/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/NITHESH-MP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/NITHESH-MP/Leetcode/tree/master/0605-can-place-flowers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/NITHESH-MP/Leetcode/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NITHESH-MP/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/NITHESH-MP/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NITHESH-MP/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0778-reorganize-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/NITHESH-MP/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/0948-sort-an-array) |
