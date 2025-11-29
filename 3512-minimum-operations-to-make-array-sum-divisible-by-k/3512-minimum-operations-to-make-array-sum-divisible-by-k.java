@@ -6,12 +6,7 @@ class Solution {
         for(int n : nums)
             sum += n;
 
-        // if(sum % k == 0)
-        //     return 0;
-        
-        int rem = sum % k;
-
-        return rem;
+        return sum % k;
 
     }
 }
