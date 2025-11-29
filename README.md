@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NITHESH-MP/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NITHESH-MP/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHESH-MP/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/NITHESH-MP/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/NITHESH-MP/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NITHESH-MP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NITHESH-MP/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/NITHESH-MP/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/NITHESH-MP/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NITHESH-MP/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
