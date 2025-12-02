@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/NITHESH-MP/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NITHESH-MP/Leetcode/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NITHESH-MP/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NITHESH-MP/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NITHESH-MP/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/NITHESH-MP/Leetcode/tree/master/1448-maximum-69-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NITHESH-MP/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/NITHESH-MP/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NITHESH-MP/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NITHESH-MP/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/NITHESH-MP/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/NITHESH-MP/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/NITHESH-MP/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/NITHESH-MP/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/NITHESH-MP/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/NITHESH-MP/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/NITHESH-MP/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Matrix
 |  |
