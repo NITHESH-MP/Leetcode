@@ -11,7 +11,7 @@ class Solution {
             else 
                 extra++;
           
-            System.out.println(stack);
+            
         }
 
 
