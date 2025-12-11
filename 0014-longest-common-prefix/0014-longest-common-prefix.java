@@ -4,26 +4,24 @@ class Solution {
             return "";
         if(strs.length == 1)
             return strs[0];
-        
-        StringBuilder prefix = new StringBuilder(strs[0]);
 
-        for(int i = 1; i < strs.length; i++)
-        {
+        int prefixEnd = strs[0].length();
+
+        for(int i = 1; i < strs.length; i++){
             String s = strs[i];
             int j = 0;
-            while(j < s.length() && j < prefix.length())
-            {
-                if(prefix.charAt(j) != s.charAt(j))
+            while(j < s.length() && j < prefixEnd){
+                if(s.charAt(j) != strs[0].charAt(j))
                     break;
                 j++;
             }
-
-            prefix.setLength(j);
-
-            if(prefix.length() == 0)
-                return "";
+            prefixEnd = j;
         }
 
-        return prefix.toString();
+        String prefix = "";
+        for(int i = 0; i < prefixEnd; i++)
+            prefix += strs[0].charAt(i);
+
+        return prefix;
     }
 }
