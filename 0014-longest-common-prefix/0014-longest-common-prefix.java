@@ -16,6 +16,8 @@ class Solution {
                 j++;
             }
             prefixEnd = j;
+            if(prefixEnd == 0)
+                return "";
         }
 
         String prefix = "";
